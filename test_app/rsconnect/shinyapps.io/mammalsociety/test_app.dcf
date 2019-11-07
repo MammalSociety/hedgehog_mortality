@@ -1,0 +1,12 @@
+name: test_app
+title: test_app
+username:
+account: mammalsociety
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1437648
+bundleId: 2571618
+url: https://mammalsociety.shinyapps.io/test_app/
+when: 1573141739.43905
+asMultiple: FALSE
+asStatic: FALSE

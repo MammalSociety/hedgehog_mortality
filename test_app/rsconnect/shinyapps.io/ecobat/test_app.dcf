@@ -1,0 +1,12 @@
+name: test_app
+title: test_app
+username:
+account: ecobat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1437632
+bundleId: 2571405
+url: https://ecobat.shinyapps.io/test_app/
+when: 1573137336.19884
+asMultiple: FALSE
+asStatic: FALSE

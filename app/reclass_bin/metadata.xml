@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20191104</CreaDate><CreaTime>10250800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.6\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20191104" Time="102508">Reclassify _Hogs__01_allps.tif VALUE "0 NODATA;0 1 1" "Z:\Shared resources\Hedgehog_mortality\Maxent\Tif Files for online tool\Reclass_bin" DATA</Process></lineage></DataProperties></Esri></metadata>
